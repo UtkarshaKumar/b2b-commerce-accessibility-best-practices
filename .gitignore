@@ -1,5 +1,6 @@
 node_modules/
 dist/
+agent-tools/
 .DS_Store
 .vercel/
 test-results/
