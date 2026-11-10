@@ -1,0 +1,282 @@
+{
+  "account": {
+    "buyer": "Priya Shah",
+    "role": "Buyer",
+    "practice": "Harbourview Dental",
+    "accountNumber": "HVD-2044",
+    "tier": "Tier 2",
+    "approvalLimit": 5000,
+    "shipTo": "88 Queen Street East, Toronto, ON M5C 1G4",
+    "phone": "416-555-0148",
+    "costCenterExample": "CC-1204"
+  },
+  "support": {
+    "phone": "1-800-555-0199",
+    "email": "orders@northline.example",
+    "hours": "Weekdays 08:00 to 18:00 Eastern Time"
+  },
+  "categories": [
+    {
+      "slug": "restorative-materials",
+      "label": "Restorative materials"
+    },
+    {
+      "slug": "preventive-care",
+      "label": "Preventive care"
+    },
+    {
+      "slug": "infection-control",
+      "label": "Infection control"
+    },
+    {
+      "slug": "equipment",
+      "label": "Equipment"
+    }
+  ],
+  "products": [
+    {
+      "sku": "NLD-10421",
+      "name": "Apex Dental Universal Composite A2",
+      "brand": "Apex Dental",
+      "category": "restorative-materials",
+      "price": 86.4,
+      "contractPrice": 74.1,
+      "pack": "Box of 4 syringes",
+      "packType": "Box",
+      "unit": "box",
+      "availability": "in-stock",
+      "availabilityLabel": "In stock. Ships the next business day.",
+      "rating": 4.6,
+      "reviewCount": 18,
+      "tone": "#d5e4f7",
+      "ink": "#10233f",
+      "summary": "Light-cure composite for posterior and anterior restorations. Shade A2, four 4 g syringes.",
+      "specs": [
+        ["Shade", "A2"],
+        ["Contents", "4 syringes, 4 g each"],
+        ["Working time", "90 seconds at room temperature"],
+        ["Cure", "Light cure, 20 seconds per increment"],
+        ["Storage", "2 to 25°C. Do not freeze."],
+        ["Cold chain", "No"]
+      ]
+    },
+    {
+      "sku": "NLD-10488",
+      "name": "Apex Dental Flowable Composite A3",
+      "brand": "Apex Dental",
+      "category": "restorative-materials",
+      "price": 64.2,
+      "contractPrice": 55.21,
+      "pack": "Box of 2 syringes",
+      "packType": "Box",
+      "unit": "box",
+      "availability": "in-stock",
+      "availabilityLabel": "In stock. Ships the next business day.",
+      "rating": 4.4,
+      "reviewCount": 11,
+      "tone": "#f3ddcf",
+      "ink": "#10233f",
+      "summary": "Flowable composite for liners and small restorations. Shade A3.",
+      "specs": [
+        ["Shade", "A3"],
+        ["Contents", "2 syringes, 2 g each, plus 10 tips"],
+        ["Working time", "60 seconds"],
+        ["Cure", "Light cure, 20 seconds"],
+        ["Storage", "2 to 25°C"],
+        ["Cold chain", "No"]
+      ]
+    },
+    {
+      "sku": "NLD-11002",
+      "name": "Northline Glass Ionomer Cement",
+      "brand": "Northline",
+      "category": "restorative-materials",
+      "price": 41.15,
+      "contractPrice": 35.39,
+      "pack": "20 capsules",
+      "packType": "Box",
+      "unit": "box",
+      "availability": "back-order",
+      "availabilityLabel": "Back ordered. Usually ships in 5 to 7 days.",
+      "rating": 4.2,
+      "reviewCount": 9,
+      "tone": "#d7eee6",
+      "ink": "#10233f",
+      "summary": "Capsule glass ionomer for bases and non-load-bearing restorations.",
+      "specs": [
+        ["Shade", "A2 universal"],
+        ["Contents", "20 mixing capsules"],
+        ["Working time", "1 minute 45 seconds"],
+        ["Set time", "4 minutes from the start of mix"],
+        ["Storage", "4 to 25°C"],
+        ["Cold chain", "No"]
+      ]
+    },
+    {
+      "sku": "NLD-11840",
+      "name": "ClearMatrix Sectional Matrix Kit",
+      "brand": "ClearMatrix",
+      "category": "restorative-materials",
+      "price": 129,
+      "contractPrice": 110.94,
+      "pack": "Kit of 100 matrices",
+      "packType": "Kit",
+      "unit": "kit",
+      "availability": "in-stock",
+      "availabilityLabel": "In stock. Ships the next business day.",
+      "rating": 4.8,
+      "reviewCount": 22,
+      "tone": "#e4def8",
+      "ink": "#10233f",
+      "summary": "Sectional matrices, rings, and wedges for class II restorations.",
+      "specs": [
+        ["Contents", "100 matrices, 2 rings, 40 wedges"],
+        ["Sizes", "3.5 mm, 4.5 mm, 5.5 mm, 6.5 mm"],
+        ["Material", "Stainless steel matrices, nickel-titanium rings"],
+        ["Sterile", "Non-sterile. Clean before first use."],
+        ["Single use", "Matrices and wedges are single use"],
+        ["Cold chain", "No"]
+      ]
+    },
+    {
+      "sku": "NLD-21014",
+      "name": "Glen Fluoride Varnish 5%",
+      "brand": "Glen",
+      "category": "preventive-care",
+      "price": 78.5,
+      "contractPrice": 67.51,
+      "pack": "Box of 50 unit doses",
+      "packType": "Box",
+      "unit": "box",
+      "availability": "in-stock",
+      "availabilityLabel": "In stock. Ships the next business day.",
+      "rating": 4.7,
+      "reviewCount": 31,
+      "tone": "#f3e6c9",
+      "ink": "#10233f",
+      "summary": "5% sodium fluoride varnish in unit-dose cups. Caramel flavour.",
+      "specs": [
+        ["Strength", "5% sodium fluoride (22,600 ppm fluoride)"],
+        ["Contents", "50 unit doses, 0.4 mL each"],
+        ["Flavour", "Caramel"],
+        ["Storage", "15 to 25°C"],
+        ["Shelf life", "24 months unopened"],
+        ["Cold chain", "No"]
+      ]
+    },
+    {
+      "sku": "NLD-22190",
+      "name": "Glen Prophy Paste Mint",
+      "brand": "Glen",
+      "category": "preventive-care",
+      "price": 36.75,
+      "contractPrice": 31.61,
+      "pack": "Jar of 300 g",
+      "packType": "Jar",
+      "unit": "jar",
+      "availability": "out-of-stock",
+      "availabilityLabel": "Out of stock. Remove it from the order or pick a substitute.",
+      "rating": 4.1,
+      "reviewCount": 7,
+      "tone": "#d6e0ee",
+      "ink": "#10233f",
+      "summary": "Medium-grit mint prophy paste for routine cleanings.",
+      "specs": [
+        ["Grit", "Medium"],
+        ["Flavour", "Mint"],
+        ["Contents", "300 g jar"],
+        ["Fluoride", "1.23% fluoride ion"],
+        ["Storage", "15 to 30°C. Reseal the jar."],
+        ["Cold chain", "No"]
+      ]
+    },
+    {
+      "sku": "NLD-30555",
+      "name": "SterileSure Surface Disinfectant",
+      "brand": "SterileSure",
+      "category": "infection-control",
+      "price": 54,
+      "contractPrice": 46.44,
+      "pack": "5 L jug",
+      "packType": "Jug",
+      "unit": "jug",
+      "availability": "in-stock",
+      "availabilityLabel": "In stock. Ships the next business day.",
+      "rating": 4.5,
+      "reviewCount": 14,
+      "tone": "#d4eee8",
+      "ink": "#10233f",
+      "summary": "Ready-to-use surface disinfectant for chairs, lights, and counters. 5 minute contact time.",
+      "specs": [
+        ["Volume", "5 L"],
+        ["Contact time", "5 minutes for the listed bacteria and viruses"],
+        ["Scent", "Unscented"],
+        ["Surfaces", "Non-porous clinical surfaces. Not for instruments."],
+        ["Storage", "Room temperature. Keep the cap closed."],
+        ["Cold chain", "No"]
+      ]
+    },
+    {
+      "sku": "NLD-44018",
+      "name": "Lumen LED Curing Light",
+      "brand": "Lumen",
+      "category": "equipment",
+      "price": 640,
+      "contractPrice": 550.4,
+      "pack": "Each, with charger",
+      "packType": "Each",
+      "unit": "each",
+      "availability": "in-stock",
+      "availabilityLabel": "In stock. Ships the next business day.",
+      "rating": 4.3,
+      "reviewCount": 6,
+      "tone": "#d9e2f2",
+      "ink": "#10233f",
+      "summary": "Cordless LED curing light, 1,200 mW/cm², with a radiometer window on the charger.",
+      "specs": [
+        ["Output", "1,200 mW/cm²"],
+        ["Wavelength", "430 to 480 nm"],
+        ["Power", "Lithium-ion battery, charger included"],
+        ["Tips", "10 mm light guide, autoclavable"],
+        ["Warranty", "2 years with the serial number on the invoice"],
+        ["Cold chain", "No"]
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "Q-1048",
+      "practice": "Harbourview Dental",
+      "submitted": "2026-11-02",
+      "total": 1284,
+      "status": "Needs approval"
+    },
+    {
+      "id": "Q-1051",
+      "practice": "Cedar and Main Clinic",
+      "submitted": "2026-11-04",
+      "total": 860.4,
+      "status": "Needs approval"
+    },
+    {
+      "id": "Q-1054",
+      "practice": "Lakeside Orthodontics",
+      "submitted": "2026-11-06",
+      "total": 2460,
+      "status": "Needs a second approver"
+    },
+    {
+      "id": "Q-1055",
+      "practice": "Harbourview Dental",
+      "submitted": "2026-10-28",
+      "total": 96.75,
+      "status": "Expiring tomorrow"
+    }
+  ],
+  "spend": [
+    ["Restorative materials", 42],
+    ["Preventive care", 18],
+    ["Infection control", 15],
+    ["Equipment", 25]
+  ]
+}
